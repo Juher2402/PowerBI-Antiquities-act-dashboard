@@ -4,7 +4,7 @@ America Preserved – A Monumental Report
 
 📖 Overview
 
-This project is an interactive Power BI dashboard that provides insights into [insert main theme, e.g., historical monuments, preservation data, tourism, funding trends, etc.]. The dashboard transforms raw data into meaningful visualizations, enabling users to explore and analyze patterns effectively.
+This project is an interactive Power BI dashboard that provides insights into historical monuments, preservation data, tourism, funding trends, etc. The dashboard transforms raw data into meaningful visualizations, enabling users to explore and analyze patterns effectively.
 
 🎯 Objectives
 
