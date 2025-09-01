@@ -1,19 +1,36 @@
-# Antiquities Act
+America Preserved – A Monumental Report
 
-This folder contains the data behind the story [Trump Might Be The First President To Scrap A National Monument](http://fivethirtyeight.com/features/trump-might-be-the-first-president-to-scrap-a-national-monument/).
+📊 Power BI Dashboard Project
 
-This data was compiled by the National Parks Conservation Association and includes national monuments that were created by presidents by under the Antiquities Act. It does not include national monuments created by Congress.
+📖 Overview
 
-Header | Definition
----|---------
-`current_name` | Current name of piece of land designated under the Antiquities Act
-`states` | State(s) or territory where land is located
-`original_name` | If included, original name of piece of land designated under the Antiquities Act
-`current_agency` | Current land management agency. NPS = National Parks Service, BLM = Bureau of Land Management, USFS = US Forest Service, FWS = US Fish and Wildlife Service, NOAA = National Oceanic and National Oceanic and Atmospheric Administration
-`action` | Type of action taken on land
-`date` | Date of action
-`year` | Year of action
-`pres_or_congress` | President or congress that issued action
-`acres_affected` | Acres affected by action. Note that total current acreage is not included. National monuments that cover ocean are listed in square miles.
+This project is an interactive Power BI dashboard that provides insights into [insert main theme, e.g., historical monuments, preservation data, tourism, funding trends, etc.]. The dashboard transforms raw data into meaningful visualizations, enabling users to explore and analyze patterns effectively.
 
-Sources: [National Parks Conservation Association](https://www.npca.org/) and [National Parks Service Archeology Program](https://www.nps.gov/history/archeology/sites/antiquities/MonumentsList.htm)
+🎯 Objectives
+
+Present data in an engaging, visual, and interactive format.
+
+Provide decision-makers with insights into [key insights—e.g., monument status, funding allocations, preservation efforts, etc.].
+
+Highlight trends and comparisons across [regions, time, categories, etc.].
+
+🛠️ Tools & Technologies
+
+Power BI Desktop – for building interactive dashboards.
+
+Data Source(s) – [mention your dataset origin: e.g., Kaggle, government open data portal, CSV/Excel, or custom dataset].
+
+📊 Dashboard Features
+
+Interactive filters & slicers for flexible exploration.
+
+KPIs & Metrics: [list important KPIs, e.g., number of monuments, preservation budget, yearly trends].
+
+📢 Author
+
+Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+<img width="1329" height="746" alt="Screenshot 2025-09-01 083929" src="https://github.com/user-attachments/assets/f5f2b790-e9f8-4432-b949-8b8a4f7c2279" />
+
+Visualizations: [map visualizations, trend lines, bar charts, etc.].
+
+Comparisons & Trends: [e.g., regional analysis, time-series trends].
