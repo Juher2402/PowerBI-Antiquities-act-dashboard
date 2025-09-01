@@ -18,7 +18,7 @@ Highlight trends and comparisons across [regions, time, categories, etc.].
 
 Power BI Desktop – for building interactive dashboards.
 
-Data Source(s) – [mention your dataset origin: e.g., Kaggle, government open data portal, CSV/Excel, or custom dataset].
+Data Source(s) – [CSV File].
 
 📊 Dashboard Features
 
